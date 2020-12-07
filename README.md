@@ -4,6 +4,8 @@ Adoro cozinhar, e as receitas que gosto de fazer estão espalhadas em várias fe
 
 Assim, o repositório serve o duplo propósito de organizar as receitas e compartilhar com o mundo aquelas que forem de fato aprovadas. ;)
 
+![Fatia da torta de limão montada](/tortas/torta-limao-chocolate-branco/img/fatia.jpg)
+
 ## Tortas
 
 [Torta de limão com chocolate branco](/tortas/torta-limao-chocolate-branco/index.md) - Receita da minha bisavó!
