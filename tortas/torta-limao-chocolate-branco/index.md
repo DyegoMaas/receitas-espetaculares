@@ -27,7 +27,7 @@ A seguir, a lista de ingredientes, separados por etapa.
 - 1/2 lata de creme de leite com soro
 - 1/2 xícara de suco de limão
 - Clara em neve de 2 ovos
-- 1 colher de sopa rasa de gelatina sem sabor
+- 1 colher de sopa rasa de gelatina incolor sem sabor
 
 ### Cobertura
 
@@ -56,11 +56,9 @@ Depois, misture o suco e as raspas de limão, e reserve.
 
 ## Preparação do mousse
 
-Bata no liquidificador todos os ingredientes do mousse, exceto a clara em neve. Vale adicionar o suco de limão por último para evitar de talhar.
+Dissolva 1 colher da gelatina em 4 colheres de água fria, e bata no liquidificador junto com os outros ingredientes do mousse, exceto a clara em neve. Vale adicionar o suco de limão por último para evitar de talhar.
 
 Despeje a mistura numa bacia, e misture com a clara em neve com leveza, com uma colher ou espátula, até a mistura ficar homogênea, e reserve.
-
-[mencionar a gelatina]
 
 ## Montagem da torta
 
