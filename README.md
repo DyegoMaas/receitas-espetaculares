@@ -8,7 +8,7 @@ Assim, o repositório serve o duplo propósito de organizar as receitas e compar
 
 ## Tortas
 
-- [Torta de limão com chocolate branco](/tortas/torta-limao-chocolate-branco/index.md) - Receita da minha bisavó!
+- [Torta de limão com chocolate branco](/tortas/torta-limao-chocolate-branco/index.md) - Receita da minha mãe!
 
 # Massas
 

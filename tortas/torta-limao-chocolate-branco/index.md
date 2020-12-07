@@ -1,6 +1,6 @@
 # Torta de limão com chocolate branco
 
-Esta receita veio da minha bisavó e é espetacular. Ela é preparada em 4 etapas: a massa, o ganache, o mousse e a cobertura.
+Esta receita veio da minha mãe e é espetacular. Ela é preparada em 4 etapas: a massa, o ganache, o mousse e a cobertura.
 
 ![Torta de limão montada](img/torta-montada.jpg)
 
