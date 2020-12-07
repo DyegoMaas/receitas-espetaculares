@@ -8,13 +8,13 @@ Assim, o repositório serve o duplo propósito de organizar as receitas e compar
 
 ## Tortas
 
-[Torta de limão com chocolate branco](/tortas/torta-limao-chocolate-branco/index.md) - Receita da minha bisavó!
+- [Torta de limão com chocolate branco](/tortas/torta-limao-chocolate-branco/index.md) - Receita da minha bisavó!
 
 # Massas
 
-Lasanha com ragu e molho branco [TO DO]
+- Lasanha com ragu e molho branco [TO DO]
 
 # Risotos
 
-Risoto de limão siciliano [TO DO]
-Risoto de funghi sechi [TO DO]
+- Risoto de limão siciliano [TO DO]
+- Risoto de funghi sechi [TO DO]
