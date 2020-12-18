@@ -12,7 +12,7 @@ Assim, o repositório serve o duplo propósito de organizar as receitas e compar
 
 # Massas
 
-- Lasanha com ragu e molho branco [TO DO]
+- [Lasanha com ragu e molho branco](/massas/lasanha-com-ragu-e-molho-branco/index.md)
 
 # Risotos
 
