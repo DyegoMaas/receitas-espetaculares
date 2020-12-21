@@ -6,7 +6,7 @@ Esta é uma versão adaptada da receita de lasanha da família Gennaro, apresent
 
 Esta é uma receita de longa duração, e é para ser feita quando tiver muita inspiração (e tempo livre). Leva em torno de **3 horas e meia** para ficar pronta.
 
-Você pode encontrar o [vídeo original aqui](https://www.youtube.com/watch?v=x64gbjmtnHM).
+Você pode encontrar o [vídeo com a receita original aqui](https://www.youtube.com/watch?v=x64gbjmtnHM). A receita abaixo tem algumas adaptações minhas.
 
 A feitura dessa receita fenomenal pode ser dividida em três etapas:
 

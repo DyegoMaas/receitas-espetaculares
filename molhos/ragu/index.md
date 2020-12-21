@@ -2,7 +2,7 @@
 
 Esta é uma versão adaptada da receita do ragu da família Gennaro, apresentada em um vídeo do chef italiano Gennaro Contaldo, no canal de YouTube do [Jamie Oliver](https://www.youtube.com/channel/UCpSgg_ECBj25s9moCDfSTsA), e é até hoje imbatível como *a melhor lasanha que experimentei na vida!*
 
-Você pode ver o [vídeo original aqui](https://www.youtube.com/watch?v=ChzUN_RvMeY).
+Você pode ver o [vídeo com a receita original aqui](https://www.youtube.com/watch?v=ChzUN_RvMeY).
 
 A estimativa é que o molho leve algo em torno de **2 horas para ficar pronto**.
 
@@ -33,9 +33,11 @@ O próximo passo é a redução do vinho. Adicione meia garrafa de vinho e aguar
 
 Adicione uma cebola picada. Não precisa picar em pedaços muito pequenos, porque ela vai se dissolver no cozimento.
 
-Em um recipiente qualquer, desmanche o conteúdo de duas latas de tomate pelado, e adicione na panela. Mexa bem.
+Em um recipiente qualquer, desmanche o conteúdo de três latas de tomate pelado, e adicione na panela. Mexa bem.
 
 Encha um copo com vinho, e dissolva uma colher de sopa de tomate concentrado. Adicione a mistura lentamente na panela e vá misturando.
+
+Encha as três latas de tomate com água e despeje na panela. Misture bem.
 
 Quando o molho começar a borbulhar, arrebente o manjericão, adicione na superfície do molho. É hora de **baixar o fogo**.
 
