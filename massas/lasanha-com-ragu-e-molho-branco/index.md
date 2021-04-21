@@ -16,6 +16,23 @@ A feitura dessa receita fenomenal pode ser dividida em três etapas:
 
 ## Molho de ragu
 
+### Ingredientes
+
+- 500g de bife de qualidade (eu usei coxão mole, mas pode ser brisket ou outra carne de sua preferência)
+- 500g de costela desossada
+- 200g de linguicinha
+- Azeite de oliva
+- Sal
+- Pimenta do reino
+- 3 folhas de louro (se possível frescas)
+- 1 cebola
+- 1 garrafa de vinho de qualidade
+- 3 latas de tomate pelado
+- 1 lata de tomate concentrado
+- 1 maço de manjericão
+
+### Preparo
+
 O molho de ragu é a estrela dessa lasanha, e merece sua própria página. Você pode [encontrá-la aqui](/molhos/ragu/index.md).
 
 ## Molho branco (ou béchamel)

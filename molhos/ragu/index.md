@@ -41,6 +41,10 @@ Encha as três latas de tomate com água e despeje na panela. Misture bem.
 
 Quando o molho começar a borbulhar, arrebente o manjericão, adicione na superfície do molho. É hora de **baixar o fogo**.
 
-**Deixe cozinhar por cerca de 2 horas.**
+**Deixe cozinhar por pelo menos 2 horas.**
 
-Quando retirar o molho do fogo, a carne estará se dissolvendo lá dentro. Esse molho combina muito bem com macarrão, mas também é perfeito para uma [lasanha espetacular](/massas/lasanha-com-ragu-e-molho-branco/index.md).
+![Ragu](img/ragu-na-panela.jpg)
+
+Quando retirar o molho do fogo, a carne estará se dissolvendo lá dentro, mas pode ser necessário desfiar alguns pedaços maiores. Isso pode ser feito com a ajuda de um garfo.
+
+Esse molho combina muito bem com macarrão, mas também é perfeito para uma [lasanha espetacular](/massas/lasanha-com-ragu-e-molho-branco/index.md).
